@@ -1,0 +1,5 @@
+c:\Users\ax583e\source\repos\TestApplication\MSTest\bin\Debug\MSTest.dacpac
+c:\Users\ax583e\source\repos\TestApplication\MSTest\bin\Debug\MSTest.dll
+c:\Users\ax583e\source\repos\TestApplication\MSTest\bin\Debug\MSTest.pdb
+c:\Users\ax583e\source\repos\TestApplication\MSTest\obj\Debug\MSTest.dll
+c:\Users\ax583e\source\repos\TestApplication\MSTest\obj\Debug\MSTest.pdb

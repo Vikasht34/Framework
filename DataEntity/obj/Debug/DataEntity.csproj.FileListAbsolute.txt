@@ -1,0 +1,9 @@
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\bin\Debug\DataEntity.dll.config
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\bin\Debug\DataEntity.dll
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\bin\Debug\DataEntity.pdb
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\bin\Debug\EntityFramework.dll
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\bin\Debug\EntityFramework.xml
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\obj\Debug\DataEntity.csprojResolveAssemblyReference.cache
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\obj\Debug\DataEntity.dll
+c:\Users\ax583e\source\repos\TestApplication\DataEntity\obj\Debug\DataEntity.pdb

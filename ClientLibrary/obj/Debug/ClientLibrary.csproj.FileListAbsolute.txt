@@ -1,0 +1,9 @@
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\bin\Debug\ClientLibrary.dll
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\bin\Debug\ClientLibrary.pdb
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\obj\Debug\ClientLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\obj\Debug\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\obj\Debug\ClientLibrary.dll
+C:\Users\ax583e\source\repos\TestApplication\ClientLibrary\obj\Debug\ClientLibrary.pdb

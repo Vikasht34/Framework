@@ -1,0 +1,6 @@
+C:\Users\ax583e\source\repos\TestApplication\Common\bin\Debug\Common.dll
+C:\Users\ax583e\source\repos\TestApplication\Common\bin\Debug\Common.pdb
+C:\Users\ax583e\source\repos\TestApplication\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\ax583e\source\repos\TestApplication\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ax583e\source\repos\TestApplication\Common\obj\Debug\Common.dll
+C:\Users\ax583e\source\repos\TestApplication\Common\obj\Debug\Common.pdb

@@ -1,0 +1,9 @@
+c:\users\ax583e\source\repos\TestApplication\TestDb\bin\Debug\TestDb.dacpac
+c:\users\ax583e\source\repos\TestApplication\TestDb\bin\Debug\TestDb.dll
+c:\users\ax583e\source\repos\TestApplication\TestDb\bin\Debug\TestDb.pdb
+c:\users\ax583e\source\repos\TestApplication\TestDb\obj\Debug\Model.xml
+c:\users\ax583e\source\repos\TestApplication\TestDb\obj\Debug\refactor.xml
+c:\users\ax583e\source\repos\TestApplication\TestDb\obj\Debug\postdeploy.sql
+c:\users\ax583e\source\repos\TestApplication\TestDb\obj\Debug\predeploy.sql
+c:\users\ax583e\source\repos\TestApplication\TestDb\obj\Debug\TestDb.dll
+c:\users\ax583e\source\repos\TestApplication\TestDb\obj\Debug\TestDb.pdb
